@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="0c82b3b5dbd02300c57c9b81ca9619e5" sys_domain="global" table="x_248778_email_fie_alert" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-03 09:00:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4082b3b5dbd02300c57c9b81ca9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_248778_email_fie_alert" name="x_248778_email_fie_alert" sys_domain="global" view="Default view">0c82b3b5dbd02300c57c9b81ca9619e5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_248778_email_fie_alert" sys_domain="global" view="Default view">f5df43f1db902300c57c9b81ca961902</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-03 09:00:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-07 05:01:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4902ef0fdbd82300c57c9b81ca9619c2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_248778_email_fie_alert" name="x_248778_email_fie_alert" sys_domain="global" view="Default view">0c82b3b5dbd02300c57c9b81ca9619e5</sys_ui_form>
+            <sys_ui_section caption="Test" display_value="Test" name="x_248778_email_fie_alert" sys_domain="global" view="Default view">0502ef0fdbd82300c57c9b81ca9619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:01:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-03 09:00:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c82b3b5dbd02300c57c9b81ca9619e8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_248778_email_fie_alert" name="x_248778_email_fie_alert" sys_domain="global" view="Default view">0c82b3b5dbd02300c57c9b81ca9619e5</sys_ui_form>
+            <sys_ui_section caption="Test Section" display_value="Test Section" name="x_248778_email_fie_alert" sys_domain="global" view="Default view">4882b3b5dbd02300c57c9b81ca9619e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:01:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_248778_email_fie_alert</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-03 09:00:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c82b3b5dbd02300c57c9b81ca9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_248778_email_fie_alert</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Email Field Mapping" source="x_248778_email_fie">4799cb3ddb502300c57c9b81ca96190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Email Field Mapping">4799cb3ddb502300c57c9b81ca96190d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0c82b3b5dbd02300c57c9b81ca9619e5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-03 09:00:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

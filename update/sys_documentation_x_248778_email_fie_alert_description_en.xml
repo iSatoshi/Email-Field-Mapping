@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="description" label="アラートメッセージ" language="en" table="x_248778_email_fie_alert">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <help/>
+            <hint/>
+            <label>アラートメッセージ</label>
+            <language>en</language>
+            <name>x_248778_email_fie_alert</name>
+            <plural>アラートメッセージs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-03 06:28:20</sys_created_on>
+            <sys_id>739f8f71db902300c57c9b81ca961917</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>アラートメッセージ</sys_name>
+            <sys_package display_value="Email Field Mapping" source="x_248778_email_fie">4799cb3ddb502300c57c9b81ca96190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Email Field Mapping">4799cb3ddb502300c57c9b81ca96190d</sys_scope>
+            <sys_update_name>sys_documentation_x_248778_email_fie_alert_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:01:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
